@@ -1,0 +1,17 @@
+p {
+    font-size: 22px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: normal;
+}
